@@ -1,1 +1,1 @@
-# python_task_2
+# python_task_2 : The program asks the user for a letter of the Latin alphabet. If the entered letter is included in the following list (а , e , i , o or u ) it is necessary to display a message stating that this letter is a vowel. If the letter y was entered, then the program should write that this letter can be either a vowel or a consonant. In all other cases, a message should be displayed stating that a consonant has been entered.
